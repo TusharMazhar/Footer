@@ -1,0 +1,31 @@
+.mainApp{
+  background-color: #2A2A2A
+}
+.buttonStyle{
+  background-color: white;
+  color:black;
+  padding:10px
+}
+.buttonStyle:hover{
+  background-color: #2A2A2A;
+  color:black;
+  border:1px solid white
+}
+
+.section{
+  text-align: center;
+  font-size: 9px;
+}
+
+.sectionItems{
+  display: inline-block;
+  padding: 4px;
+  font-weight: bold;
+}
+.sectionItems:hover{
+  border-bottom: 1px solid white;
+}
+
+.linkHover:hover{
+
+}
